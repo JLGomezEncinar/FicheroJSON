@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Forest",
     "description": "Carta Bosque de la expansión Zendikar.",
-    "image": "https://github.com/JLGomezEncinar/FicheroJSON/blob/main/forest.jpg"
+    "image": "https://raw.githubusercontent.com/JLGomezEncinar/FicheroJSON/refs/heads/main/forest.jpg"
   },
   {
     "id": 2,
