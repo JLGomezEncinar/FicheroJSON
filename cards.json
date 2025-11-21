@@ -7,14 +7,26 @@
   },
   {
     "id": 2,
-    "title": "Cultura japonesa",
-    "description": "Templos antiguos y tradiciones milenarias.",
-    "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090"
+    "title": "Island",
+    "description": "Carta Isla de la expansión Zendikar.",
+    "image": "https://raw.githubusercontent.com/JLGomezEncinar/FicheroJSON/refs/heads/main/island.jpg"
   },
   {
     "id": 3,
-    "title": "Playas del Caribe",
-    "description": "Arena blanca y mar turquesa: un paraíso tropical.",
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    "title": "Mountain",
+    "description": "Carta Montaña de la expansión Zendikar.",
+    "image": "https://raw.githubusercontent.com/JLGomezEncinar/FicheroJSON/refs/heads/main/mountain.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Plains",
+    "description": "Carta Llanura de la expansión Zendikar.",
+    "image": "https://raw.githubusercontent.com/JLGomezEncinar/FicheroJSON/refs/heads/main/plains.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Swamp",
+    "description": "Carta Pantano de la expansión Zendikar.",
+    "image": "https://raw.githubusercontent.com/JLGomezEncinar/FicheroJSON/refs/heads/main/swamp.jpg"
   }
 ]
