@@ -1,1 +1,14 @@
-
+[
+  {
+    "user": "ana.garcia",
+    "password": "pass123Segura"
+  },
+  {
+    "user": "carlos_dev",
+    "password": "miPassSecreta456"
+  },
+  {
+    "user": "elena_mkt",
+    "password": "otra_contra789!"
+  }
+]
