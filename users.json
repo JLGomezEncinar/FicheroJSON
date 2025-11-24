@@ -10,5 +10,10 @@
   {
     "user": "elena_mkt",
     "password": "otra_contra789!"
+  },
+  {
+    "user": "Prueba",
+    "email": "prueba@gmail.com",
+    "password": "Prueba25"
   }
 ]
