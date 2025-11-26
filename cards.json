@@ -4,34 +4,34 @@
     "title": "Forest",
     "description": "Carta Bosque de la expansión Zendikar.",
     "image": "https://raw.githubusercontent.com/JLGomezEncinar/FicheroJSON/refs/heads/main/forest.jpg",
-    "backgroundcolor": "#C2D1C4"
+    "backgroundColor": "#C2D1C4"
   },
   {
     "id": 2,
     "title": "Island",
     "description": "Carta Isla de la expansión Zendikar.",
     "image": "https://raw.githubusercontent.com/JLGomezEncinar/FicheroJSON/refs/heads/main/island.jpg",
-    "backgroundcolor": "#C4D9E7"
+    "backgroundColor": "#C4D9E7"
   },
   {
     "id": 3,
     "title": "Mountain",
     "description": "Carta Montaña de la expansión Zendikar.",
     "image": "https://raw.githubusercontent.com/JLGomezEncinar/FicheroJSON/refs/heads/main/mountain.jpg",
-    "backgroundcolor": "#F6D3BD"
+    "backgroundColor": "#F6D3BD"
   },
   {
     "id": 4,
     "title": "Plains",
     "description": "Carta Llanura de la expansión Zendikar.",
     "image": "https://raw.githubusercontent.com/JLGomezEncinar/FicheroJSON/refs/heads/main/plains.jpg",
-    "backgroundcolor": "#F4F6EC"
+    "backgroundColor": "#F4F6EC"
   },
   {
     "id": 5,
     "title": "Swamp",
     "description": "Carta Pantano de la expansión Zendikar.",
     "image": "https://raw.githubusercontent.com/JLGomezEncinar/FicheroJSON/refs/heads/main/swamp.jpg",
-    "backgroundcolor": "#BEB9B5"
+    "backgroundColor": "#BEB9B5"
   }
 ]
